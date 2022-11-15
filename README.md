@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ochodekbartlomiej@gmail.com**
 
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/bart%C5%82omiej-ochodeka251a523b">LinkedIn</a> 
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/ochodzio/">LinkedIn</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
