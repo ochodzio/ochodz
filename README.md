@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ochodzio&label=Profile%20views&color=0e75b6&style=flat" alt="ochodzio" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Mulesoft**
 
 - 📫 How to reach me **ochodekbartlomiej@gmail.com**
 
