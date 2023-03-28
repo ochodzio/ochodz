@@ -1,4 +1,4 @@
-<img display: block; margin-left: auto; margin-right: auto; alt="Coding"; width="400"; src="https://media4.giphy.com/media/7tTkpEzUC9C8vmUQJd/giphy.gif?cid=790b7611095d158268db4b0d97ec1b4130fb055bda32a5c2&rid=giphy.gif&ct=g">
+<img src="https://media4.giphy.com/media/7tTkpEzUC9C8vmUQJd/giphy.gif?cid=790b7611095d158268db4b0d97ec1b4130fb055bda32a5c2&rid=giphy.gif&ct=g">
 
 <h1 align="center">Hi 👋, I'm ochodz</h1>
 <h3 align="center">I'm a Java and Flutter Developer</h3>
