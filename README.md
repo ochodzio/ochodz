@@ -1,4 +1,5 @@
-<img align="center" alt="Coding" width="400" src="https://media4.giphy.com/media/7tTkpEzUC9C8vmUQJd/giphy.gif?cid=790b7611095d158268db4b0d97ec1b4130fb055bda32a5c2&rid=giphy.gif&ct=g">
+<img display: block; margin-left: auto; margin-right: auto; alt="Coding" width="400" src="https://media4.giphy.com/media/7tTkpEzUC9C8vmUQJd/giphy.gif?cid=790b7611095d158268db4b0d97ec1b4130fb055bda32a5c2&rid=giphy.gif&ct=g">
+
 <h1 align="center">Hi 👋, I'm ochodz</h1>
 <h3 align="center">I'm a Java and Flutter Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif">
